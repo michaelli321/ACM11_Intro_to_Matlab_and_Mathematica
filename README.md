@@ -1,0 +1,5 @@
+# ACM11: Intro to Matlab and Mathematica
+
+Matlab: basic syntax and development environment; debugging; help interface; basic linear algebra; visualization and graphical output; control flow; vectorization; scripts, and functions; file i/o; arrays, structures, and strings; numerical analysis (topics may include curve fitting, interpolation, differentiation, integration, optimization, solving nonlinear equations, fast Fourier transform, and ODE solvers); and advanced topics (may include writing fast code, parallelization, object-oriented features). Mathematica: basic syntax and the notebook interface, calculus and linear algebra operations, numerical and symbolic solution of algebraic and differential equations, manipulation of lists and expressions, Mathematica programming (rule-based, functional, and procedural) and debugging, plotting, and visualization. The course will also emphasize good programming habits and choosing the appropriate language/software for a given scientific task.
+
+Note: Please follow Honor Code and do not look at these files if you are currently a Caltech student
